@@ -1,4 +1,4 @@
-# weather-app-vue
+# weather-notified-vue
 
 ## Project setup
 ```
