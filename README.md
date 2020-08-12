@@ -1,4 +1,7 @@
-# weather-notified-vue
+# weather notifier vue
+```
+input your location and know about your current temperature .
+```
 
 ## Project setup
 ```
